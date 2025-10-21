@@ -147,20 +147,3 @@ El programa imprime información en tiempo real:
 ```
 L:valor_izq R:valor_der | Error:X.XX | P:X.XX I:X.XX D:X.XX | PID:X.XX | Vel L:X.XX R:X.XX
 ```
-
-## Posibles Mejoras
-- [ ] Agregar sensor central (gs1) para mayor precisión
-- [ ] Implementar control de velocidad adaptativo según curvatura
-- [ ] Añadir detección de intersecciones
-- [ ] Implementar sistema de recuperación mejorado ante pérdida prolongada
-- [ ] Calibración automática de sensores
-
-## Autor
-[Tu nombre]
-
-## Licencia
-[Tu licencia preferida - ej: MIT, GPL, etc.]
-
----
-
-**Nota**: Los valores de los parámetros pueden requerir ajustes según las características específicas de tu pista (ancho de línea, radio de curvas, iluminación, etc.).
